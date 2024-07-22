@@ -16,17 +16,17 @@
 <div align=center>
   <h2>Teck Stack👩‍💻</h2>
   <h3>Programming Languages</h3>
-  <img src="https://img.shields.io/badge/-Java-770C56?style=flat-square&logo=JAVA&logoColor=007396&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=3670A0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=3670A0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=3670A0&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3670A0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-770C56?style=flat-square&logo=JAVA&logoColor=007396&labelColor=770C56">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF&labelColor=3776AB">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF&labelColor=00599C">
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=FFFFFF&labelColor=0175C2">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E">
   <br>
   <h3>Library/FrameWork</h3>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=007396&labelColor=282828">
-  <img src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=dotnet&logoColor=007396&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=007396&labelColor=282828">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=007396&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000&labelColor=61DAFB">
+  <img src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF&labelColor=512BD4">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=FFFFFF&labelColor=02569B">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF&labelColor=5C3EE8">
 </div>
 
 <br>
