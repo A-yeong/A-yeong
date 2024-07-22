@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=dotnet&logoColor=FFFFFF&labelColor=512BD4">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=FFFFFF&labelColor=02569B">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=FFFFFF&labelColor=5C3EE8">
+  <br>
+  <h3>collaborative too</h3>
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=181717">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF&labelColor=F24E1E">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF&labelColor=000000">
 </div>
 
 <br>
