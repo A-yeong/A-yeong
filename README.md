@@ -12,7 +12,6 @@
   <h4>📘 Major 국립금오공과대학교 컴퓨터소프트웨어공학과<br>| Kumoh National Institute of Technology Dept. of Computer Software Engineering</h4>
 </div>
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=A-yeong&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/A-yeong?pet-id=710074873473169232"
@@ -21,7 +20,7 @@
   />
 </a>
   
-
+  
 <div align=center>
   <h2>Teck Stack👩‍💻</h2>
   <h3>Languages</h3>
