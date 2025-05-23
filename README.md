@@ -6,12 +6,21 @@
   안녕하세요! 새로움과 도전이 두렵지 않은 웹, 앱 개발자 변아영입니다.<br>
   컴퓨터소프트웨어공학과를 전공하며 얻은 개발 경험과 다수의 협업 경험을 통해<br>
   상상을 현실로 만들어 나가겠습니다.<br>
+  
   <br>
   <h4>✉️ E-mail dkdud264@gmail.com</h4>
   <h4>📘 Major 국립금오공과대학교 컴퓨터소프트웨어공학과<br>| Kumoh National Institute of Technology Dept. of Computer Software Engineering</h4>
 </div>
 
-<br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=A-yeong&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/A-yeong?pet-id=710074873473169232"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <div align=center>
   <h2>Teck Stack👩‍💻</h2>
